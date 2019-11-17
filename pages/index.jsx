@@ -5,7 +5,7 @@ import Link from 'next/link';
 import Layout from '../components/Layout';
 
 const Header = styled.h1`
-  color: green;
+  font-style: italic;
 `;
 
 function getPosts() {
